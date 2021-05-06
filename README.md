@@ -37,7 +37,7 @@ INSTALLATION
 You can then install this project template using the following command:
 
 ~~~
-git clone https://github.com/SAADSARKI/expense_assignment_solution.git
+git clone https://github.com/SAADSARKI/expense_assignment_solutions.git
 
 and then composer install:
 ~~~
@@ -51,7 +51,7 @@ http://localhost/basic/web/
 
 ### Install from an Archive File
 
-Extract the archive file downloaded from [https://github.com/SAADSARKI/expense_assignment_solution.git)
+Extract the archive file downloaded from [https://github.com/SAADSARKI/expense_assignment_solutions.git)
 and go cd to your director e.g basic folder and open cmd and use composer install to update dependencies
 Set cookie validation key in `config/web.php` file to some random secret string:
 
